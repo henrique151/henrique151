@@ -1,4 +1,4 @@
-![logo](https://files.tecnoblog.net/wp-content/uploads/2022/03/wallpaper-1060x596.jpg)
+
 
 <h1 align="center">Olá 👋, Eu sou Henrique Porto</h1>
 <h3 align="center">Atualmente estou estudando na ETEC Zona Leste como Desenvolvedor de Sistemas.</h3>
