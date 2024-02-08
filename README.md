@@ -4,7 +4,7 @@
 <h3 align="center">Atualmente estou estudando na ETEC Zona Leste como Desenvolvedor de Sistemas.</h3>
 
 
-<h3 align="center">Ferramentas que uso no meu dia</h3>
+<h1 align="center">Linguagens e Ferramentas</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
