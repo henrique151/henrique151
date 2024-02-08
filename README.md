@@ -12,7 +12,20 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique151&show_icons=true&locale=en&layout=compact" alt="henrique151" /></p>
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=henrique151&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=henrique151&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=henrique151&show_icons=true" />
+</picture>
+</p>
+
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
