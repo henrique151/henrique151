@@ -16,5 +16,5 @@
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/henrique porto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique porto" height="50" width="40" /></a>
+<a href="https://linkedin.com/in/henrique porto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/henrique-porto-a4b194263/" height="50" width="40" /></a>
 <a href="https://instagram.com/hen_rique15.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hen_rique15.01" height="50" width="40" /></a>
