@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Olá 👋, Eu sou Henrique Porto</h1>
 <h3 align="center">Atualmente estou estudando na ETEC Zona Leste como Desenvolvedor de Sistemas.</h3>
 
@@ -13,7 +11,7 @@
 </p>
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=193 align="center" src="https://github-readme-stats.vercel.app/api?username=henrique151&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henrique151&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique151&layout=compact&show_icons=true&theme=midnight-purple&langs_count=8&card_width=320" />
