@@ -14,16 +14,12 @@
 
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henrique151&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henrique151&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique151&layout=compact&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique151&layout=compact&show_icons=true&theme=midnight-purple" />
 </a>
 </p>
-
-
-
-
 
 
 <h3 align="center">Conecte-se comigo:</h3>
