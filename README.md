@@ -1,4 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou Henrique Porto</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=090809&size=35&center=true&vCenter=true&width=1000&lines=Eu,+Sou+Henrique😎)](https://git.io/typing-svg)
+<h1 align="center">Olá👋 , Eu sou Henrique Porto</h1>
 <h3 align="center">Atualmente estou estudando na ETEC Zona Leste como Desenvolvedor de Sistemas.</h3>
 
 
