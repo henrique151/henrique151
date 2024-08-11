@@ -12,7 +12,7 @@
 <h1 align="center">Linguagens & Frameworks:</h1>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,react,js,nodejs,firebase,java,php,laravel,python,tailwind" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,firebase,java,php,laravel,python,tailwind" />
     </a>
   </p>
 
