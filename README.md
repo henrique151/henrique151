@@ -26,8 +26,10 @@
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
-<a href="https://instagram.com/hen_rique15.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hen_rique15.01" height="50" width="40" /></a>
-<a href="https://linkedin.com/in/henrique-porto-a4b194263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique-porto-a4b194263" height="30" width="40" /></a>
+<a href="https://instagram.com/hen_rique15.01" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<a href="https://linkedin.com/in/henrique-porto-a4b194263" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> </a>
 
+
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3232CD&height=120&section=footer"/>
 
