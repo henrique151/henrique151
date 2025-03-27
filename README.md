@@ -5,7 +5,7 @@
 <h1 align="center">Ferramentas:</h1>
 <p align="center">
     <a href="">
-      <img src="https://skillicons.dev/icons?i=vscode,mysql,postgres,git,androidstudio,idea,phpstorm,pycharm" />
+      <img src="https://skillicons.dev/icons?i=vscode,mysql,git" />
     </a>
   </p>
   
