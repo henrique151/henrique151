@@ -32,7 +32,7 @@
      <a href="https://linkedin.com/in/henrique-porto-a4b194263" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> </a>
    </p>
 </div>
-
+<!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henrique151&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
 </a>
