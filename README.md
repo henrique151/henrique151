@@ -6,7 +6,12 @@
 ## Sobre mim:
 <div>
    <p align="start">
-     aaa
+     Olá! Meu nome é Henrique, tenho 18 anos e sou formado em Desenvolvimento de Sistemas pela Etec da Leste. Sempre fui apaixonado por tecnologia desde criança, e esse interesse me levou a ingressar na área de TI. Tenho conhecimento tanto em back-end quanto em front-end, mas minha preferência é pelo desenvolvimento back-end. Ainda estou aprimorando meus conhecimentos, mas venho evoluindo constantemente. 
+<br /><br />
+      Aos 15 anos, comecei minha jornada no desenvolvimento e, desde então, fico fascinado com o impacto que a tecnologia tem no mundo. Desde os primeiros computadores até os chips quânticos e avanços na área da saúde, a tecnologia sempre me impressionou. 
+      <br /><br />
+      Sou uma pessoa comunicativa, sempre em busca de novas maneiras de pensar e resolver problemas, com grande compromisso com minhas responsabilidades. Como recém-formado, foco em desenvolver projetos que solucionem problemas reais, mesmo sem experiência profissional, pois acredito que a prática e o aprendizado contínuo são essenciais para meu crescimento. Meu objetivo é me especializar em Inteligência Artificial, estudando Python e outras ferramentas. A longo prazo, desejo trabalhar com IA e expandir minha experiência internacionalmente. Enquanto isso, sigo aprimorando minhas habilidades por meio de projetos e buscando oportunidades de estágio ou emprego. Tenho uma base sólida em Java, JavaScript e MySQL, além de conhecimento em tecnologias como Laravel, Node.js, TypeScript, ReactJS, React Native e Firebase. Confira meus projetos!
+
    </p>
 </div>
 
