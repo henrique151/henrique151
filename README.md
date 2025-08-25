@@ -1,21 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3232CD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3232CD&size=35&center=true&vCenter=true&width=1250&lines=Hii👋,+I'm+Henrique;I've+graduated+as+a+Systems+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3232CD&size=30&center=true&vCenter=true&width=1250&lines=Hii👋,+I'm+Henrique;I'm+currently+studying+Multiplatform+Software+Development+at+FATEC.)](https://git.io/typing-svg)
 
-
-## Sobre mim:
+## About Me:
 <div>
    <p align="start">
-     Olá! Meu nome é Henrique, tenho 18 anos e sou formado em Desenvolvimento de Sistemas pela Etec da Leste. Sempre fui apaixonado por tecnologia desde criança, e esse interesse me levou a ingressar na área de TI. Tenho conhecimento tanto em back-end quanto em front-end, mas minha preferência é pelo desenvolvimento back-end. Ainda estou aprimorando meus conhecimentos, mas venho evoluindo constantemente. 
+     Hi! My name is Henrique, I'm 18 years old and I graduated in Systems Development from Etec da Leste. Currently, I am pursuing a degree in Multiplatform Software Development at FATEC. I've been passionate about technology since I was a child, which led me to pursue a career in IT. I have experience with both back-end and front-end development, although I prefer back-end. I am constantly improving my skills and learning new technologies.
 <br /><br />
-    Aos 15 anos, comecei minha jornada no desenvolvimento e, desde então, fico fascinado com o impacto que a tecnologia tem no mundo. Desde os primeiros computadores até os chips quânticos e avanços na área da saúde, a tecnologia sempre me impressionou. Por isso, meu interesse pela área só cresceu, me levando a me aprofundar cada vez mais e buscar constantemente novos conhecimentos para entender seu funcionamento e aplicações.
-      <br /><br />
-      Sou uma pessoa comunicativa, sempre em busca de novas maneiras de pensar e resolver problemas, com grande compromisso com minhas responsabilidades. Como recém-formado, foco em desenvolver projetos que solucionem problemas reais, mesmo sem experiência profissional, pois acredito que a prática e o aprendizado contínuo são essenciais para meu crescimento. Meu objetivo é me especializar em Inteligência Artificial, estudando Python e outras ferramentas. A longo prazo, desejo trabalhar com IA e expandir minha experiência internacionalmente. Enquanto isso, sigo aprimorando minhas habilidades por meio de projetos e buscando oportunidades de estágio ou emprego. Tenho uma base sólida em Java, JavaScript e MySQL, além de conhecimento em tecnologias como Laravel, Node.js, TypeScript, ReactJS, React Native e Firebase. Confira meus projetos!
-
+     I started my journey in development at the age of 15, and since then I have been fascinated by the impact technology has on the world. From early computers to quantum chips and advances in healthcare, technology always impresses me. My interest in the field has only grown, motivating me to deepen my knowledge and explore new opportunities to understand how technology works and how it can be applied.
+<br /><br />
+     I am communicative, enjoy problem-solving, and take my responsibilities seriously. As a recent graduate, I focus on developing projects that solve real-world problems. My goal is to specialize in Artificial Intelligence, studying Python and other tools. In the long term, I aim to work in AI and expand my experience internationally. Meanwhile, I continue to strengthen my skills through projects and seeking internship or job opportunities. I have a solid foundation in Java, JavaScript, and MySQL, as well as experience with Laravel, Node.js, TypeScript, ReactJS, React Native, and Firebase. Check out my projects!
    </p>
 </div>
 
-## Tecnologias que utilizo:
+## Technologies I Use:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -31,19 +29,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Conecte-se comigo:
+## Connect with Me:
 <div>
    <p align="start">
      <a href="https://instagram.com/hen_rique15.01" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-     <a href="https://linkedin.com/in/henriqueportodesousa" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> </a>
+     <a href="https://linkedin.com/in/henriquepsousa" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> </a>
    </p>
 </div>
-<!-- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henrique151&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique151&layout=compact&show_icons=true&theme=midnight-purple&langs_count=8&card_width=320" />
-</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3232CD&height=120&section=footer"/>
