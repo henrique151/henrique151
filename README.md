@@ -5,11 +5,11 @@
 ## About Me:
 <div>
    <p align="start">
-     Olá! Meu nome é Henrique, sou um Desenvolvedor Backend com foco em Inteligência Artificial (IA). Com 18 anos, estou aprimorando minhas habilidades com uma graduação em Desenvolvimento de Software Multiplataforma na FATEC, com o conhecimento que adquiri ao me formar em Desenvolvimento de Sistemas na Etec da Leste. Minha paixão por tecnologia começou na infância e se tornou uma carreira dedicada em TI. Sou fascinado pelo impacto significativo que a tecnologia tem no mundo, desde os primeiros computadores até as fronteiras da computação quântica e os avanços na área da saúde.
+     Hello! My name is Henrique, and I'm a Backend Developer focused on Artificial Intelligence (AI). At 18 years old, I'm currently advancing my skills through a degree in Multiplatform Software Development at FATEC, building upon the knowledge I gained from my graduation in Systems Development at Etec da Leste. My fascination with technology began in childhood and evolved into a dedicated career path in IT. I'm passionate about the significant impact technology has on the world, from early computers to the frontiers of quantum computing and advances in healthcare.
 <br /><br />
-     Sou uma pessoa comunicativa e responsável, que adora resolver problemas e busca constantemente aprimorar minhas habilidades. Meu objetivo é criar projetos que enfrentem desafios genuínos. Tenho um forte domínio de linguagens e frameworks como Java, Python, PostgreSQL, MySQL e SQL. Tenho conhecimento em tecnologias de frontend como ReactJS, Next.js, TypeScript e TailwindCSS, o que me dá a flexibilidade para lidar com tarefas full-stack quando necessário. Além disso, estou focado em aprender a usar ferramentas de IA como TensorFlow, PyTorch, Scikit-Learn e Pandas.
+     I'm a communicative and responsible problem-solver who is always looking to improve my skills. My goal is to create projects that address genuine challenges. I have a strong command of languages and frameworks like Java, Python, PostgreSQL, MySQL, and SQL. I also have knowledge of frontend technologies like ReactJS, Next.js, TypeScript, and TailwindCSS, which gives me the flexibility to handle full-stack tasks when needed. Additionally, I'm focused on learning to use AI tools like TensorFlow, PyTorch, Scikit-Learn, and Pandas.
 <br /><br />
-     Atualmente, estou estudando e buscando uma oportunidade de estágio na área de desenvolvimento backend com foco em IA. Estou sempre em busca de novas oportunidades e desafios para expandir meu conhecimento e aplicar minhas habilidades em projetos que façam a diferença.
+     I am currently a student and am actively seeking an internship in backend development with a focus on AI. I am always looking for new opportunities and challenges to expand my knowledge and apply my skills to projects that make a difference.
    </p>
 </div>
 
@@ -25,7 +25,7 @@
 ![SQL (SQLite)](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### 🤖 Inteligência Artificial / Data Science
+### 🤖 Artificial Intelligence / Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
@@ -39,7 +39,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### 🔧 Versionamento & Colaboração
+### 🔧 Version Control & Collaboration
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
