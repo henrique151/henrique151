@@ -4,30 +4,46 @@
 
 ## About Me:
 <div>
-   <p align="start">
-     Hi! My name is Henrique, I'm 18 years old and I graduated in Systems Development from Etec da Leste. Currently, I am pursuing a degree in Multiplatform Software Development at FATEC. I've been passionate about technology since I was a child, which led me to pursue a career in IT. I have experience with both back-end and front-end development, although I prefer back-end. I am constantly improving my skills and learning new technologies.
+   <p align="start">
+     Olá! Meu nome é Henrique, sou um Desenvolvedor Backend com foco em Inteligência Artificial (IA). Com 18 anos, estou aprimorando minhas habilidades com uma graduação em Desenvolvimento de Software Multiplataforma na FATEC, com o conhecimento que adquiri ao me formar em Desenvolvimento de Sistemas na Etec da Leste. Minha paixão por tecnologia começou na infância e se tornou uma carreira dedicada em TI. Sou fascinado pelo impacto significativo que a tecnologia tem no mundo, desde os primeiros computadores até as fronteiras da computação quântica e os avanços na área da saúde.
 <br /><br />
-     I started my journey in development at the age of 15, and since then I have been fascinated by the impact technology has on the world. From early computers to quantum chips and advances in healthcare, technology always impresses me. My interest in the field has only grown, motivating me to deepen my knowledge and explore new opportunities to understand how technology works and how it can be applied.
+     Sou uma pessoa comunicativa e responsável, que adora resolver problemas e busca constantemente aprimorar minhas habilidades. Meu objetivo é criar projetos que enfrentem desafios genuínos. Tenho um forte domínio de linguagens e frameworks como Java, Python, PostgreSQL, MySQL e SQL. Tenho conhecimento em tecnologias de frontend como ReactJS, Next.js, TypeScript e TailwindCSS, o que me dá a flexibilidade para lidar com tarefas full-stack quando necessário. Além disso, estou focado em aprender a usar ferramentas de IA como TensorFlow, PyTorch, Scikit-Learn e Pandas.
 <br /><br />
-     I am communicative, enjoy problem-solving, and take my responsibilities seriously. As a recent graduate, I focus on developing projects that solve real-world problems. My goal is to specialize in Artificial Intelligence, studying Python and other tools. In the long term, I aim to work in AI and expand my experience internationally. Meanwhile, I continue to strengthen my skills through projects and seeking internship or job opportunities. I have a solid foundation in Java, JavaScript, and MySQL, as well as experience with Laravel, Node.js, TypeScript, ReactJS, React Native, and Firebase. Check out my projects!
-   </p>
+     Atualmente, estou estudando e buscando uma oportunidade de estágio na área de desenvolvimento backend com foco em IA. Estou sempre em busca de novas oportunidades e desafios para expandir meu conhecimento e aplicar minhas habilidades em projetos que façam a diferença.
+   </p>
 </div>
 
-## Technologies I Use:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![MySQL](https://img.shields.io/badge/mysql-%230769AD.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🔹 Backend & Database
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%230769AD.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL (SQLite)](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+### 🤖 Inteligência Artificial / Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+### 🌐 FullStack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### 🔧 Versionamento & Colaboração
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ## Connect with Me:
 <div>
