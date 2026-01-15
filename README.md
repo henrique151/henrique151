@@ -4,6 +4,10 @@
 
 ## About Me:
 
+
+<!--
+Back-end development with a focus on AI solutions. Bio
+-->
 <!-- 
    Olá! Meu nome é Henrique e sou um Desenvolvedor Backend com foco em Inteligência Artificial (IA). Aos 18 anos, estou atualmente aprimorando minhas habilidades por meio do curso de Desenvolvimento de Software Multiplataforma na FATEC, dando continuidade aos conhecimentos adquiridos na minha formação em Desenvolvimento de Sistemas pela Etec da Leste. Meu fascínio pela tecnologia começou ainda na infância e evoluiu para um caminho profissional dedicado à área de TI. Sou apaixonado pelo impacto significativo que a tecnologia tem no mundo, desde os primeiros computadores até as fronteiras da computação quântica e os avanços na área da saúde.
 
